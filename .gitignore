@@ -1,4 +1,4 @@
-./iris_train.csv
-./iris_test.csv
+.iris_train.csv
+.iris_test.csv
 .ipynb_checkpoints
-./virtual_documents
+.virtual_documents
